@@ -1,0 +1,22 @@
+
+.title-edit{
+    resize: none;
+    height: 59px;
+    width: 697px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 32pt;
+    margin-top: 190pt;
+    border: none;
+}
+.title-edit2{
+    width: 726px;
+    height: 302px;
+    font-family: Arial;
+    font-size: 24pt;
+    border: none;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
